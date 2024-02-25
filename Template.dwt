@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>Untitled 1</title>
+<!-- #EndEditable -->
+<style type="text/css">
+.NavigationBarTitle {
+	font-family: "Berlin Sans FB Demi";
+	font-size: xx-large;
+}
+.auto-style2 {
+	font-family: "Berlin Sans FB";
+	font-size: large;
+}
+.auto-style3 {
+	background-color: #5A3726;
+}
+.auto-style4 {
+	text-align: left;
+}
+.auto-style5 {
+	background-color: #5A3726;
+	color: #FFFFFF;
+	font-family: "Berlin Sans FB";
+}
+.FooterTitle {
+	background-color: #5A3726;
+	color: #FFFFFF;
+	font-family: "Berlin Sans FB";
+	font-size: x-large;
+}
+.auto-style7 {
+	background-color: #5A3726;
+	color: #FFFFFF;
+	font-family: "Berlin Sans FB";
+	font-size: large;
+}
+.auto-style8 {
+	border-width: 0px;
+}
+.auto-style9 {
+	text-decoration: none;
+}
+.auto-style10 {
+	color: #000000;
+}
+.NavigationBar {
+	font-family: "Berlin Sans FB";
+	font-size: large;
+	color: #000000;
+}
+.auto-style12 {
+	color: #FFFFFF;
+}
+.auto-style13 {
+	color: #000000;
+	font-family: "Berlin Sans FB";
+}
+.FooterText {
+	font-size: large;
+}
+</style>
+</head>
+
+<body>
+
+<table style="width: 100%">
+	<tr>
+		<td class="NavigationBarTitle" style="height: 85px; width: 20%;">
+		<a class="auto-style9" href="file://5420060-FS01/StudentsFolders2018$/ebyrne578/My%20Web%20Sites/Hot%20Beans%20Web/Index.html">
+		<span class="auto-style10">Hot Beans Web </span></a> </td>
+		<td class="NavigationBar" style="height: 85px; width: 20%;" colspan="2">
+		<a class="auto-style9" href="file://5420060-FS01/StudentsFolders2018$/ebyrne578/My%20Web%20Sites/Hot%20Beans%20Web/HTML/Profiles.html">
+		<span class="auto-style10">Profiles</span></a></td>
+		<td class="NavigationBar" style="height: 85px; " colspan="2">
+		<a class="auto-style9" href="file://5420060-FS01/StudentsFolders2018$/ebyrne578/My%20Web%20Sites/Hot%20Beans%20Web/HTML/Requirements%20.html">
+		<span class="NavigationBar">Requirements</span></a></td>
+		<td class="auto-style2" style="height: 85px; width: 20%;">
+		<a class="auto-style9" href="file://5420060-FS01/StudentsFolders2018$/ebyrne578/My%20Web%20Sites/Hot%20Beans%20Web/HTML/Application%20Form.html">
+		<span class="NavigationBar">Application Form</span></a></td>
+		<td class="auto-style2" style="height: 85px; width: 90px">
+		<a class="NavigationBar" href="file://5420060-FS01/StudentsFolders2018$/ebyrne578/My%20Web%20Sites/Hot%20Beans%20Web/HTML/Courses.html">
+		<span class="auto-style10">Courses</span></a></td>
+	</tr>
+	<tr>
+		<td colspan="7">
+		<img alt="banner" height="390" src="Hot%20Beans%20Web%20updated%20copy.jpg" width="100%" /></td>
+	</tr>
+	<tr>
+		<td colspan="7" class="auto-style4" valign="top"><!-- #BeginEditable "text" --><!-- #EndEditable -->
+		<div align="center"><FONT size="+1">
+			<MARQUEE bgcolor="#FFFFFF" direction="right" loop="20" width="100%" class="auto-style13">Welcome to Hot Beans Web!</MARQUEE></FONT></DIV>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="FooterTitle">
+		Contact Us <br />
+		<span class="FooterText">11 Broad street, Hereford, Herefordshire, HR1 
+		14T, UK<br />
+		</span> </td>
+		<td colspan="2" class="auto-style7" style="width: 305px">
+		07833786204<br />
+		<a href="mailto:Hotbeansweb@gmail.com"><span class="auto-style12">Hotbeansweb@gmail.com</span></a><br />
+		</td>
+		<td class="auto-style3" colspan="3">
+		<a href="https://twitter.com/">
+		<img alt="twitter logo" class="auto-style8" height="98" src="Images/twitter%20logo.png" width="114" longdesc="Images/twitter logo.png" /></a><a href="https://www.instagram.com"><img alt="instagram logo" class="auto-style8" height="113" src="Images/insta%20updated.png" width="123" /></a><a href="https://www.tiktok.com"><img alt="tiktok logo" class="auto-style8" height="104" src="Images/tiktok%20logo.png" width="127" /></a></td>
+	</tr>
+	<tr>
+		<td colspan="7" class="auto-style5">&nbsp;</td>
+	</tr>
+</table>
+
+</body>
+
+</html>
